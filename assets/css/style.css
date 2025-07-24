@@ -129,10 +129,23 @@ header {
     font-weight: normal;
     text-decoration: none;
     color: #aaa;
+    display: flex;
+    align-items: center;
+    transition: color 0.3s;
+}
+.lang-selector a:hover {
+    color: var(--color-text);
 }
 .lang-selector a.active {
     font-weight: bold;
     color: var(--color-accent);
+}
+.flag-icon {
+    width: 22px;
+    height: auto;
+    margin-right: 8px;
+    border-radius: 3px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.2);
 }
 .menu-toggle {
     display: none;
