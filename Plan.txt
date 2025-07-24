@@ -1,0 +1,276 @@
+### Informe OSINT — **La Unión Pub**
+
+**Dirección:** Carrer de Tit Livi 1, 07610 Can Pastilla (Platja de Palma)
+**Corte de datos:** 23 jul 2025
+
+---
+
+## 1. Identidad y datos básicos
+
+| Elemento                      | Detalle                              | Fuente                 |
+| ----------------------------- | ------------------------------------ | ---------------------- |
+| Nombre comercial              | La Unión Pub (bar / pub nocturno)    | ([Wanderlog][1])       |
+| Teléfono                      | +34 630 77 33 57                     | ([Cylex][2])           |
+| Categorías oficiales          | Bar, pub, discoteca, sala de eventos | ([Cylex][2])           |
+| Rangos de precio orientativos | 10 – 20 € por persona                | ([Restaurant Guru][3]) |
+
+---
+
+## 2. Horarios publicados
+
+Las tres fuentes principales **no coinciden** entre sí:
+
+| Fuente                                                 | Horario (resumen)                                                                |
+| ------------------------------------------------------ | -------------------------------------------------------------------------------- |
+| **Google / Wanderlog** – rating 4,0 ★ (59 reseñas)     | Lun–Sáb 22 :30–05 :00 · Dom 23 :00–05 :00 ([Wanderlog][1])                       |
+| **Restaurant Guru** – rating Google 4,1 ★ (61 reseñas) | Cerrado lunes · Mar–Sáb 22 :30–05 :00 · Dom 23 :00–05 :00 ([Restaurant Guru][3]) |
+| **Cylex**                                              | Mié–Dom 23 :00/22 :30–05 :00 · Lun–Mar 23 :00–05 :00 ([Cylex][2])                |
+
+> **Riesgo:** inconsistencia que puede frustrar clientes y penalizar SEO local.
+
+---
+
+## 3. Huella digital y presencia on‑line
+
+| Plataforma                    | Indicadores clave                                                                            | Observaciones                                                                                      |
+| ----------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| **Google Business**           | 4,0 ★ (59 opiniones)                                                                         | Polarización: elogios al ambiente vs. denuncias graves (venta de drogas, peleas). ([Wanderlog][1]) |
+| **Restaurant Guru**           | 4,1 ★ (78 votos) · 23 fotos                                                                  | Muestra rango de precios, fotos de barra e interior. ([Restaurant Guru][3])                        |
+| **Instagram** (@publaunion)\* | Stories y posts promocionando fiestas temáticas (ej. “¡Lo manchego!” con DJ @ainhoanova.wav) | *Vista solo en snippet; la página requiere login.* ([Instagram][4])                                |
+| **Facebook** (Club La Unión)  | Página existe, pero la vista pública está limitada sin sesión                                | Difícil de auditar sin permisos. ([Facebook][5])                                                   |
+| **Sitio web propio**          | No localizado                                                                                | Dependencia total de plataformas de terceros.                                                      |
+
+---
+
+## 4. Oferta, ambiente y “propuesta de valor”
+
+* Pub de **madrugada** (hasta las 05 h), atractivo cuando otros locales cierran.
+* Música variada con peticiones del público; dispone de **futbolín y dardos**. ([Wanderlog][1])
+* Bebidas estándar de pub; se mencionan **caipiriñas** y “laing” (plato gallego) pero la carta no está publicada en línea. ([Restaurant Guru][3])
+
+---
+
+## 5. Reputación online (detalle)
+
+* **Positivo:** ambiente “cálido”, personal “amable”, baños limpios, opción de solicitar canciones.
+* **Negativo (alta severidad):**
+
+  * Reseñas de febrero 2019 y 2024 denuncian intento de venta de cocaína por parte del dueño y peleas con clientes extranjeros. ([Wanderlog][1])
+  * Varias quejas por precios “algo caros” para la zona y ruido excesivo.
+* Distribución de estrellas (Google): 35 × 5★ · 4★ (5) · 3★ (9) · 2★ (6) · 1★ (4). ([Wanderlog][1])
+
+> **Conclusión reputacional:** imagen ambivalente; un episodio grave puede comprometer licencia y afluencia turística.
+
+---
+
+## 6. Competidores inmediatos (<150 m)
+
+| Local                         | Tipo       | Distancia aprox. | Observaciones                           | Fuente       |
+| ----------------------------- | ---------- | ---------------- | --------------------------------------- | ------------ |
+| **Bon Vent Café & Bar**       | Café‑bar   | 10 m             | En avenida principal; clientela diurna. | ([Cylex][2]) |
+| **Baobab Food & Drinks**      | Gastro‑bar | 40 m             | Enfocado a cócteles y comida healthy.   | ([Cylex][2]) |
+| **Troyen**                    | Pub belga  | 70 m             | Carta extensa de cervezas, música rock. | ([Cylex][2]) |
+| **BonaOna Surf School & Bar** | Surf‑bar   | 140 m            | Fusión deporte + after‑beach.           | ([Cylex][2]) |
+
+---
+
+## 7. Nuevas oportunidades identificadas
+
+1. **Clarificar horarios en todas las plataformas** y fijar horario “pivote” en Google Business para no perder tráfico orgánico.
+2. **Responder oficialmente** a las reseñas críticas graves (drogas/peleas) mostrando plan de tolerancia 0 y reforzando seguridad.
+3. **Calendario de eventos temáticos** (ej. fiestas regionales ya anunciadas en IG), con cartel mensual visible en redes y fachada para fidelizar turistas repetidores.
+4. **Página web mínima + landing multilingüe** con menús de bebidas, carta de precios y música en vivo; captaría reservas de grupos despedida/ cumpleaños.
+5. **Alianzas con hoteles cercanos** para packs “late‑night” (bebida + dardo/futbolín) asegurando flujo fuera de temporada alta.
+
+---
+
+## 8. Riesgos y superficies de exposición adicionales
+
+| Riesgo                                                 | Impacto potencial                                                                  | Mitigación                                                                                       |
+| ------------------------------------------------------ | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Acusaciones públicas de tráfico de drogas**          | Pérdida de licencia, inspecciones policiales, caída de reservas de touroperadores. | Formar al personal, cámaras CCTV, política de puerta y comunicación transparente.                |
+| **Inconsistencia de datos (horarios, método de pago)** | Clientes frustrados, bajas valoraciones nuevas.                                    | Sincronizar Google, FB, IG y directorios; usar API de actualización automática.                  |
+| **Dependencia de plataformas cerradas (FB/IG)**        | Pérdida de visibilidad si cambian algoritmos.                                      | Web propia + ficha Google con FAQ y fotos optimizadas.                                           |
+| **Escasa diferenciación frente a pubs vecinos**        | Competencia feroz precio/ambiente                                                  | Potenciar USP: apertura hasta las 05 h + entretenimiento (torneos de dardos), branding interior. |
+| **Falta de menú público**                              | Desconfianza del cliente sobre precios                                             | Digitalizar carta y enlazar Código QR en perfiles.                                               |
+
+---
+
+## 9. Checklist de acción prioritaria (90 días)
+
+1. **Reclamar** ficha Google Business Profile y ajustar horarios → alertas de temporada.
+2. **Protocolizar seguridad interna** (registro de incidencias, formación barman & door‑staff).
+3. **Responder TOP‑10 reseñas** (positivas y negativas) antes del 15 ago.
+4. **Sesión fotográfica profesional** del local para renovar galerías en Google / Restaurant Guru.
+5. **Landing trilingüe** (ES‑EN‑DE) con calendario de DJ y oferta “Happy Hour 22 :30–23 :30”.
+
+---
+
+### Resumen ejecutivo
+
+La Unión Pub destaca por su **franja horaria ultranocturna** y ambiente informal, pero arrastra **reseñas muy críticas** que cuestionan la seguridad y la ética del negocio. Un plan inmediato de reputación on‑line y una estrategia clara de diferenciación (eventos, transparencia de precios, marketing hotelero) son clave para transformar la percepción pública y consolidar su lugar en la escena nocturna de Can Pastilla.
+
+[1]: https://wanderlog.com/place/details/13166678/la-uni%C3%B3n-pub "La Unión Pub, Palma de Mallorca, Spain - Reviews, Ratings, Tips and Why You Should Go – Wanderlog"
+[2]: https://www.cylex.es/can-pastilla/la-uni%C3%B3n-pub-13023703.html "▷ La Unión Pub, Can Pastilla"
+[3]: https://restaurantguru.com/PUB-La-UNION-Can-Pastilla "La Unión Pub, Can Pastilla - Restaurant menu, prices and reviews"
+[4]: https://www.instagram.com/publaunion/?utm_source=chatgpt.com "Pub La Unión (@publaunion) • Instagram photos and videos"
+[5]: https://www.facebook.com/clublaunion14/?locale=es_LA "Facebook"
+
+
+
+
+## Plan integral para la web de **La Unión Pub**
+
+*(versión 23 jul 2025, pensada para cubrir al menos los próximos 3 años de necesidades)*
+
+---
+
+### 1. Objetivos estratégicos de la web
+
+| Prioridad | Objetivo                          | Métrica de éxito                                                       | Comentario                                                                           |
+| --------- | --------------------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| **P1**    | **Generar visitas presenciales**  | +15 % ticket medio / +20 % afluencia en franja 22 :30‑24 :00           | Mostrar claramente horario, promos, localización y “valor refugio” hasta las 05 h    |
+| **P2**    | **Reputación y confianza**        | 80 % de reseñas 5★ / ratio respuesta 100 %                             | Contrarrestar comentarios negativos (drogas/seguridad) con transparencia y políticas |
+| **P3**    | **Captación de grupos y eventos** | 10 reservas semanales vía formulario                                   | Packs cumpleaños, despedidas, post‑congresos, pre‑parties de hoteles                 |
+| **P4**    | **Posicionamiento SEO local**     | Top‑3 para “pub noche Can Pastilla”, “late‑night bar Palma” (ES‑EN‑DE) | Palabras clave seleccionadas + Google Business sincronizado                          |
+
+---
+
+### 2. Arquitectura de la información (site map)
+
+1. **Home / Inicio**
+2. **Nuestro Pub**
+
+   * Historia & valores
+   * Equipo y política de seguridad (*“Tolerancia 0 al consumo de sustancias”*)
+3. **Bebidas & Carta**
+
+   * Cocktails clásicos 🡒 especialidades de la casa (caipiriña, chupitos flameados)
+   * Tapas nocturnas (si procede) + precios orientativos
+4. **Eventos & Calendario**
+
+   * Agenda mensual con filtros (DJ‑Set, fiestas temáticas, torneos de dardos/futbolín, retransmisiones deportivas)
+   * Banner “Fiesta regional – ¡Lo Manchego! 30 ago 2025”
+5. **Reservas & Cumpleaños**
+
+   * Formulario con selector de fecha/hora, tamaño del grupo y opción de pack (*Shot Welcome* / *Mesa VIP*)
+   * Integración calendario interno (Google Calendar + avisos e‑mail/SMS)
+6. **Galería**
+
+   * Fotos profesionales (in/outdoor), vídeo 30 s vertical estilo reel + slider de testimonios
+7. **Blog / Novedades** *(opcional pero útil para SEO)*
+
+   * 2‑3 entradas mensuales: playlists, cóctel de temporada, crónicas de fiestas pasadas
+8. **Contacto**
+
+   * Mapa embebido (Google Maps) + botón “Abrir en Maps”
+   * Teléfono y WhatsApp Business (con horarios de respuesta)
+   * Horario oficial UNIFICADO (es la referencia única → sincronizar en GMB, FB, IG)
+9. **Legal & Privacidad**
+
+   * Política de cookies + RGPD (multilingüe)
+
+---
+
+### 3. Experiencia de usuario (UX) & diseño
+
+| Área                  | Recomendaciones clave                                                                                                                                                  |
+| --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Look & Feel**       | Paleta basada en colores cálidos y oscuros (negro, granate, dorado tenue) → ambiente “late‑night clásico”. Fuente sans‑serif para copy + display vintage para títulos. |
+| **Hero de portada**   | Vídeo loop (5‑7 s) mostrando: barra iluminada, gente brindando y bola de espejos. CTA principal: **“Reserva tu mesa”**.                                                |
+| **Navegación**        | Menú sticky, 5‑6 ítems máx. con idioma selector ES / EN / DE (esquina superior).                                                                                       |
+| **Móvil primero**     | >70 % del tráfico nocturno será móvil; priorizar velocidad (LCP < 2,5 s) y botones grandes.                                                                            |
+| **Accesibilidad**     | Contraste AA, texto alt en imágenes, captions en vídeo, možnost nav por teclado.                                                                                       |
+| **Review highlights** | En home: widget que tira 4‑5 reseñas 5★ recientes + botón “Escribe la tuya”.                                                                                           |
+
+---
+
+### 4. Contenido clave por sección
+
+| Página          | Elementos imprescindibles                                                                                             | Micro‑copy sugerido                                                      |
+| --------------- | --------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| **Home**        | • Claim “El after favorito de la Playa de Palma — abierto hasta las 05 h” <br>• CTA dobles (Reserva / Próximo evento) | “¿La noche acaba? En La Unión recién empieza”                            |
+| **Nuestro Pub** | • Timeline 2016‑2025 <br>• Foto staff + nombres <br>• Párrafo sobre protocolos de seguridad y música “a tu gusto”     | “Aquí todos somos familia — y la familia se cuida”                       |
+| **Bebidas**     | • Carta descargable PDF <br>• 6 combos destacados con precios (Happy Hour) <br>• Upsell “Carta premium de gin‑tonics” | “Del mojito clásico al gin‑tonic de autor, siempre frío, siempre rápido” |
+| **Eventos**     | • Agenda calendario + ficha detallada al hacer clic <br>• CTA “Apúntate ya”                                           | “Cada noche es distinta. Mira lo que viene”                              |
+| **Reservas**    | • Selector fecha/hora <br>• Packs (Cumpleaños, Despedida, Empresa) con fotografía <br>• Política de cancelación       | “Reserva gratis — paga tu primera ronda al llegar”                       |
+| **Galería**     | • Mosaico Pinterest (Lazy Load) <br>• Filtro “Ambiente”, “Bebidas”, “Eventos”                                         | “Una imagen vale mil brindis”                                            |
+| **Contacto**    | • Map iframe (zoom 18) <br>• Botón “Cómo llegar” <br>• Horario oficial con icono reloj <br>• + enlaces RRSS           | “Nos vemos donde empieza la noche”                                       |
+
+---
+
+### 5. SEO & analítica
+
+| Pilar                | Acción                                                                                               | Herramientas                        |
+| -------------------- | ---------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **Keyword research** | “pub en Can Pastilla”, “pub Playa de Palma abierto tarde”, “cocktails Mallorca night” (ES‑EN‑DE)     | Ahrefs / Google Keyword Planner     |
+| **On‑page**          | URL limpias, meta‑titles < 60 car, descripción atractiva, marcaje schema.org “BarOrPub”              | Rank Math / Yoast                   |
+| **Local SEO**        | Embed de mapa + “NAP” idéntico a Google Business; página destacada de “Cómo llegar en bus 21 / taxi” | Google Business Profile, Local Pack |
+| **Link‑building**    | Colaboraciones con blogs de turismo, hoteles, influencers de ocio nocturno                           | Nota de prensa + invitaciones       |
+| **Analítica & A/B**  | Google Analytics 4, Tag Manager, Hotjar (grabaciones→optimizar embudo reservas)                      | —                                   |
+
+---
+
+### 6. Back‑office y stack técnico
+
+| Criterio        | Propuesta básica                                                       | Notas                                                          |
+| --------------- | ---------------------------------------------------------------------- | -------------------------------------------------------------- |
+| **CMS**         | WordPress + tema ligero (Block‑based) o Webflow (si presupuesto extra) | WP facilita plugins reserva; Webflow = rendimiento/animaciones |
+| **Booking**     | WP: plugin Amelia / LatePoint (pago in‑situ)                           | Sincroniza con Google Calendar                                 |
+| **Multilingüe** | WPML / Weglot / Webflow‑Locale                                         | Simplificar a ES‑EN‑DE                                         |
+| **Hosting**     | Servidor español (SiteGround) · PHP 8 / HTTP 2 · CDN Cloudflare        | SSL Let’s Encrypt                                              |
+| **Velocidad**   | Imágenes ≤150 kb, WebP + lazyload, minify scripts                      | Core Web Vitals                                                |
+| **Seguridad**   | Firewall (Wordfence) + actualizaciones auto + 2FA admin                | Evitar hackeos que cambien horarios/links                      |
+| **Back‑ups**    | Diarios off‑site (JetBackup)                                           | —                                                              |
+
+---
+
+### 7. Integraciones externas
+
+* **WhatsApp Business API** → botón flotante “¿Alguna duda? Escríbenos”.
+* **Instagram API v16** → feed automático 4 últimas fotos en footer.
+* **Google Reviews widget** (Elfsight) → muestra reseñas 4‑5★ filtradas.
+* **Mailchimp** → lista para newsletter “Agenda de la semana” (ENVÍO jueves 17 h).
+* **Cookie bot** → banner RGPD trilingüe.
+
+---
+
+### 8. Plan de lanzamiento & mantenimiento
+
+| Semana  | Hito                                                                          | Responsable             |
+| ------- | ----------------------------------------------------------------------------- | ----------------------- |
+| 0‑1     | Kick‑off + recopilación recursos (logo en alta, fotos, carta)                 | Diseñador / Propietario |
+| 2       | Wireframes + copy sketch                                                      | UX writer               |
+| 3‑4     | Diseño UI + prototipo Figma aprobado                                          | UI designer             |
+| 5‑6     | Desarrollo front‑end + CMS + migración contenido                              | Dev                     |
+| 7       | Integración reservas + pasarela WhatsApp                                      | Dev                     |
+| 8       | QA, traducciones, SEO on‑page                                                 | QA lead                 |
+| 9       | Soft‑launch (dominio staging, test reservas)                                  | Equipo interno          |
+| 10      | Go‑live + anuncio RRSS / email                                                | Marketing               |
+| Mensual | Post‑lanzamiento: revisión métricas, actualización eventos, responder reseñas | Community / Manager     |
+
+---
+
+### 9. Checklist de contenido visual
+
+* 📸 **Sesión fotográfica**: barra iluminada, close‑ups de cócteles, DJ cabina, público bailando, exterior fachada con neón.
+* 🎥 **Vídeo**: pieza 30 s formato vertical (reel) + horizontal hero (1920×1080).
+* 🎨 **Iconos**: horario, parking cercano, Wi‑Fi, dardos, futbolín.
+
+---
+
+### 10. KPI tras lanzamiento (90 días)
+
+| Métrica                            | Objetivo   | Herramienta        |
+| ---------------------------------- | ---------- | ------------------ |
+| Sesiones mensuales                 | ≥3 000     | GA4                |
+| Ratio reserva on‑line              | ≥4 %       | Amelia / LatePoint |
+| Click‑to‑WhatsApp                  | ≥8 % móvil | GTM Event          |
+| Tiempo medio en página **Eventos** | ≥1 min     | GA4                |
+| Reseñas 5★ nuevas                  | +20 / mes  | Google Business    |
+
+---
+
+## Conclusión
+
+Diseñar la web de **La Unión Pub** no es solo crear un escaparate, sino **convertirla en el hub que unifique horarios, reputación, reservas y experiencia de marca**. Con una arquitectura clara, multilingüe y móvil‑first, integraciones que faciliten la conversión y un relato honesto sobre seguridad y ambiente, la página aportará valor real al negocio y protegerá la reputación del local a largo plazo.
