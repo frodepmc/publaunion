@@ -339,15 +339,18 @@ section {
 .google-reviews-summary {
     display: flex;
     align-items: center;
+    flex-wrap: wrap; /* Allow items to wrap on smaller screens */
+    gap: 10px; /* Add some space between items when they wrap */
 }
 .google-rating-score {
     font-size: 2.5em;
     font-weight: bold;
     color: var(--color-text);
-    margin-right: 15px;
+    margin-right: 5px; /* Adjusted margin */
 }
 .google-reviews-summary .google-stars {
     font-size: 2em; /* Adjusted from 3em */
+    white-space: nowrap; /* Prevents stars from wrapping */
 }
 .google-stars .star {
     display: inline-block;
