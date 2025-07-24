@@ -1,23 +1,23 @@
 <!DOCTYPE html>
-<html lang="es">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reservas - La Unión Pub</title>
-    <meta name="description" content="Reserva gratis tu mesa para cumpleaños, despedidas o simplemente para asegurar tu sitio. Paga tu primera ronda al llegar.">
-    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Booking - La Unión Pub</title>
+    <meta name="description" content="Book your table for free for birthdays, parties, or just to secure your spot. Pay for your first round upon arrival.">
+    <link rel="stylesheet" href="../assets/css/style.css">
     <!-- hreflang Tags -->
-    <link rel="alternate" hreflang="es" href="reservas.html" />
-    <link rel="alternate" hreflang="en" href="en/booking.html" />
-    <link rel="alternate" hreflang="de" href="de/reservierung.html" />
-    <link rel="alternate" hreflang="x-default" href="reservas.html" />
+    <link rel="alternate" hreflang="es" href="../reservas.html" />
+    <link rel="alternate" hreflang="en" href="booking.html" />
+    <link rel="alternate" hreflang="de" href="../de/reservierung.html" />
+    <link rel="alternate" hreflang="x-default" href="../reservas.html" />
 </head>
 <body>
 
     <header>
         <div class="container nav-container">
             <a href="index.html" class="logo">
-                <img src="assets/images/logo.png" alt="La Unión Pub Logo">
+                <img src="../assets/images/logo.png" alt="La Unión Pub Logo">
             </a>
             <div class="header-right">
                 <div class="header-socials">
@@ -30,20 +30,20 @@
                 </div>
                 <nav class="nav-menu">
                     <ul>
-                        <li><a href="nuestro-pub.html">Nuestro Pub</a></li>
-                        <li><a href="bebidas.html">Bebidas</a></li>
-                        <li><a href="eventos.html">Eventos</a></li>
-                        <li><a href="galeria.html">Galería</a></li>
-                        <li><a href="reservas.html" class="active">Reservas</a></li>
-                        <li><a href="contacto.html">Contacto</a></li>
+                        <li><a href="our-pub.html">Our Pub</a></li>
+                        <li><a href="drinks.html">Drinks</a></li>
+                        <li><a href="events.html">Events</a></li>
+                        <li><a href="gallery.html">Gallery</a></li>
+                        <li><a href="booking.html" class="active">Booking</a></li>
+                        <li><a href="contact.html">Contact</a></li>
                     </ul>
                     <div class="lang-selector">
-                        <a href="reservas.html" class="active">ES</a>
-                        <a href="en/booking.html">EN</a>
-                        <a href="de/reservierung.html">DE</a>
+                        <a href="../reservas.html">ES</a>
+                        <a href="booking.html" class="active">EN</a>
+                        <a href="../de/reservierung.html">DE</a>
                     </div>
                 </nav>
-                <button class="menu-toggle" aria-label="Abrir menú">
+                <button class="menu-toggle" aria-label="Open menu">
                     &#9776; <!-- Hamburger Icon -->
                 </button>
             </div>
@@ -53,8 +53,8 @@
     <main>
         <section class="page-hero">
             <div class="container">
-                <h1 class="section-title">Reserva gratis.</h1>
-                <p class="section-subtitle">Asegura tu mesa y paga tu primera ronda al llegar.</p>
+                <h1 class="section-title">Book for free.</h1>
+                <p class="section-subtitle">Secure your table and pay for your first round when you arrive.</p>
             </div>
         </section>
 
@@ -62,7 +62,7 @@
             <div class="container">
                 <form class="form-grid">
                     <div class="form-group">
-                        <label for="name">Nombre</label>
+                        <label for="name">Name</label>
                         <input type="text" id="name" name="name" required>
                     </div>
                     <div class="form-group">
@@ -70,41 +70,41 @@
                         <input type="email" id="email" name="email" required>
                     </div>
                     <div class="form-group">
-                        <label for="phone">Teléfono</label>
+                        <label for="phone">Phone</label>
                         <input type="tel" id="phone" name="phone" required>
                     </div>
                     <div class="form-group">
-                        <label for="people">Número de Personas</label>
+                        <label for="people">Number of People</label>
                         <input type="number" id="people" name="people" min="2" max="30" required>
                     </div>
                     <div class="form-group">
-                        <label for="date">Fecha</label>
+                        <label for="date">Date</label>
                         <input type="date" id="date" name="date" required>
                     </div>
                     <div class="form-group">
-                        <label for="time">Hora</label>
+                        <label for="time">Time</label>
                         <input type="time" id="time" name="time" min="22:30" max="03:00" required>
                     </div>
                     <div class="form-group full-width">
-                        <label for="package">Elige un pack (opcional)</label>
+                        <label for="package">Choose a package (optional)</label>
                         <select id="package" name="package">
-                            <option value="ninguno">Sin pack</option>
-                            <option value="cumpleanos">Pack Cumpleaños (Shot Welcome)</option>
-                            <option value="despedida">Pack Despedida (Mesa VIP)</option>
-                            <option value="empresa">Pack Empresa</option>
+                            <option value="none">No package</option>
+                            <option value="birthday">Birthday Package (Welcome Shot)</option>
+                            <option value="bachelor">Bachelor/ette Package (VIP Table)</option>
+                            <option value="corporate">Corporate Package</option>
                         </select>
                     </div>
                     <div class="form-group full-width">
-                        <label for="comments">Comentarios</label>
+                        <label for="comments">Comments</label>
                         <textarea id="comments" name="comments" rows="4"></textarea>
                     </div>
                     <div class="form-group full-width">
-                        <button type="submit" class="cta-button">Confirmar Reserva</button>
+                        <button type="submit" class="cta-button">Confirm Booking</button>
                     </div>
                 </form>
                 <div class="cancellation-policy">
-                    <h3>Política de Cancelación</h3>
-                    <p>Puedes cancelar tu reserva sin coste hasta 24 horas antes. Para grupos grandes, contactaremos contigo para confirmar. ¡Gracias por elegirnos!</p>
+                    <h3>Cancellation Policy</h3>
+                    <p>You can cancel your booking free of charge up to 24 hours in advance. For large groups, we will contact you to confirm. Thank you for choosing us!</p>
                 </div>
             </div>
         </section>
@@ -121,19 +121,19 @@
                 </a>
             </div>
             <div class="footer-nav">
-                <a href="index.html">Inicio</a>
-                <a href="nuestro-pub.html">Nuestro Pub</a>
-                <a href="eventos.html">Eventos</a>
-                <a href="contacto.html">Contacto</a>
-                <a href="legal.html">Aviso Legal</a>
-                <a href="legal.html#privacidad">Privacidad</a>
+                <a href="index.html">Home</a>
+                <a href="our-pub.html">Our Pub</a>
+                <a href="events.html">Events</a>
+                <a href="contact.html">Contact</a>
+                <a href="legal.html">Legal Notice</a>
+                <a href="legal.html#privacy">Privacy</a>
             </div>
             <div class="copyright">
-                <p>&copy; 2025 La Unión Pub. Todos los derechos reservados.</p>
+                <p>&copy; 2025 La Unión Pub. All rights reserved.</p>
                 <p>Carrer de Tit Livi 1, 07610 Can Pastilla, Palma de Mallorca</p>
             </div>
         </div>
     </footer>
-    <script src="assets/js/script.js"></script>
+    <script src="../assets/js/script.js"></script>
 </body>
 </html>
