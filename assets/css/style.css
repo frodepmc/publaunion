@@ -45,6 +45,10 @@ header {
     justify-content: space-between;
     align-items: center;
 }
+.header-right {
+    display: flex;
+    align-items: center;
+}
 .logo img {
     height: 80px; /* Aumentado desde 65px */
     width: auto;
@@ -94,23 +98,23 @@ header {
 }
 
 /* Instagram Icon in Nav */
-.nav-menu .social-nav-item {
+.header-socials {
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+}
+.header-socials a {
+    padding: 0 8px;
     display: flex;
     align-items: center;
 }
-.nav-menu .social-nav-link {
-    padding: 0 5px; /* Add some spacing between icons */
-}
-.nav-menu .social-nav-link::after {
-    display: none; /* No underline animation for icon */
-}
-.nav-menu .social-nav-link svg {
+.header-socials a svg {
     width: 26px;
     height: 26px;
     stroke: var(--color-text);
     transition: stroke 0.3s, transform 0.3s;
 }
-.nav-menu .social-nav-link:hover svg {
+.header-socials a:hover svg {
     stroke: var(--color-accent);
     transform: scale(1.1);
 }
@@ -654,6 +658,14 @@ footer {
 }
 
 @media (max-width: 768px) {
+    .header-right {
+        flex-grow: 1;
+        justify-content: flex-end;
+    }
+    .header-socials {
+        margin-left: 50px; /* Adjusted from 20px */
+        margin-right: auto; /* This pushes the hamburger menu to the far right */
+    }
     .menu-toggle {
         display: block;
     }
